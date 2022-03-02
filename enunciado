@@ -1,0 +1,10 @@
+En una agencia de turismo de Córdoba, ingresan personas cada 10 +/- 2 minutos. Estas personas demoran 5 +/-
+2 segundos en llegar al escritorio de Informes donde son atendidos por una sola persona. La atención demora 9
++/- 5 minutos.
+Luego de ser atendidos, el 60% de las personas se retira de la agencia, demorando 20 +/- 5 segundos en llegar a
+la puerta. El 40% restante se dirige al escritorio de Reservas, demorando 10 +/- 5 segundos en llegar. En
+"Reservas" son atendidos por una persona durante 7 +/- 2 minutos, luego de lo cual se retiran demorando 20 +/- 5
+segundos en salir.
+A la agencia se suma un ingreso adicional de personas que se dirigen directamente a Reservas sin pasar
+por Informes, demorando 15 +/- 3 segundos en llegar. Este ingreso se produce cada 15 +/- 3 minutos.
+Simular hasta que se retiran 500 personas.
